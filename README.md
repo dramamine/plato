@@ -1,4 +1,3 @@
-
 User Authentication
 
 server-side: use Passport (with mongoose local strategy)
@@ -46,4 +45,3 @@ Reviews have a
 Posts have a
   Category
   Relations to other posts
-

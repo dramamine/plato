@@ -1,0 +1,6 @@
+README-private.md
+logs
+*.log
+node_modules
+dbconfig.coffee
+public/lib/
